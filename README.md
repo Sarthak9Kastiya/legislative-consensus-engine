@@ -1,3 +1,5 @@
+Vercel link: https://legislative-consensus-engine-final.vercel.app/
+
 # Legislative Consensus Engine
 
 The Legislative Consensus Engine is a mediation platform designed to facilitate transparent communication between governing bodies and the public. By utilizing advanced natural language processing and objective mathematical modeling, the system translates complex legislative text into accessible, data-driven frameworks for civic engagement.
